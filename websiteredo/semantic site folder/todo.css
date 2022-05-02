@@ -1,0 +1,87 @@
+h1 {
+    background-color: green; 
+    color: white;
+    padding:5px;
+    text-align:center;
+    border: black 10px;
+    margin: 5px;
+  }
+  ul{
+   list-style-type: none;
+    margin:0;
+    padding:0;
+  }
+  li{list-style-type:none;
+  }
+  
+  body{
+    font-family:#468;
+  }
+  
+  nav ul li {
+    display:inline-block;
+    line-height:80px;
+    margin:0 5px;
+  
+  
+    
+  }
+  
+  
+  h2{
+    text-color:green;
+    color:whitesmoke;
+    padding:5px;
+    text-align:center;
+    list-style:none;
+    
+    }
+  figure.hero{
+    background:url("hotsprings.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding:50px 200px;
+    background-position:center;
+    
+  }
+  h3{
+    color:whitesmoke;
+    padding:5px;
+    text-align:center;
+  }
+  
+  
+  figure.hero7{
+    background:url("hotspringstodo3.jpg");
+    repeat:no-repeat;
+    height:300px;
+    background-size:cover;
+    background-position:center;
+  }
+  h4{
+    color:whitesmoke;
+    text-align:center;
+    padding:5px;
+  }
+  
+  figure.hero6{
+     background:url("hotspringstodo2.jpg");
+    repeat:no-repeat;
+    height:300px;
+    background-size:cover;
+    background-position:center;
+    
+  }
+  
+  figure.hero5{
+    background:url("hotspringstodo5.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding:50px 200px;
+    background-position:center;
+    height:300px;
+    
+  }
+  
+  footer li {
+    display:inline-block};

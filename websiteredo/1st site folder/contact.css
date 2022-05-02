@@ -1,0 +1,60 @@
+h1 {
+    background-color: green; 
+    color: white;
+    padding:5px;
+    text-align:center;
+    border: green solid 10px;
+    margin: 5px;
+  }
+  h2{
+    text-color:whitesmoke;
+    color:whitesmoke;
+  }
+   .hero{
+    background:url("hotsprings3.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding:50px 200px;
+    background-position:center;
+   }
+    
+  h3{
+  text-align:left;
+  }
+     
+  textarea {
+       resize:none;
+  }
+  
+  ul{
+   list-style-type: none;
+    margin:0;
+    padding:0;
+  }
+  li{list-style-type:none;
+  }
+  
+  body{
+    font-family:#468;
+  }
+  
+  nav ul li {
+    display:inline-block;
+    line-height:80px;
+    margin:0 5px;
+  
+  
+    
+  }
+  footer{
+    font-size:45px;
+  
+    
+  }
+  
+  footer li {
+    display:inline-block;
+    
+  }
+    
+  

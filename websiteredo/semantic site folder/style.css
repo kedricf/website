@@ -1,0 +1,83 @@
+h1 {
+    background-color: green; 
+    color: white;
+    padding:5px;
+    text-align:center;
+    border: black 10px;
+    margin: 5px;
+  }
+  ul{
+   list-style-type: none;
+    margin:0;
+    padding:0;
+  }
+  li{list-style-type:none;
+  }
+  
+  body{
+    font-family:#468;
+  }
+  
+  nav ul li {
+    display:inline-block;
+    line-height:80px;
+    margin:0 5px;
+  
+  
+    
+  }
+  
+  
+  h2{
+    text-color:green;
+    color:whitesmoke;
+    padding:5px;
+    text-align:center;
+    list-style:none;
+    
+    }
+  figure.hero{
+    background:url("hotsprings.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding:50px 200px;
+    background-position:center;
+    height:300px;
+  }
+  h3{
+    color:whitesmoke;
+    padding:5px;
+    text-align:center;
+  }
+  
+  
+  figure.hero2{
+    background:url("hotsprings3.jpg");
+    repeat:no-repeat;
+    height:100px;
+    background-size:cover;
+    background-position:center;
+    height:300px;
+  }
+  h4{
+    color:whitesmoke;
+    text-align:center;
+    padding:5px;
+  }
+  
+  figure.hero3{
+     background:url("hotsprings2.jpg");
+    repeat:no-repeat;
+    height:100px;
+    background-size:cover;
+    background-position:center;
+    height:300px;
+    
+  }
+  
+  footer{
+    font-size:45px;
+  }
+  
+  footer li {
+    display:inline-block};
